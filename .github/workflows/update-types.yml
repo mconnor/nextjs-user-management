@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       SUPABASE_ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-      PROJECT_REF: <your-project-id>
+      PROJECT_REF: cykvmkqhhwgfdgvvizww
     steps:
       - uses: actions/checkout@v2
         with:
