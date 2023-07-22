@@ -1,2 +1,0 @@
-token
-sbp_00912713aa74d6a8b9f87181cf30de27dcf207fc
